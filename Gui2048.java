@@ -1,9 +1,7 @@
 /*
  * Name: Brian Vu
- * Login: cs8bkq
  * Date: May 28, 2015
  * File: Gui2048.java
- * Sources of Help: Elaine, Tutors, docs.oracle.com
  *
  * Description: This program is designed to create a display interface for
  *            the game 2048. It contains all of the necessary designs and 
@@ -12,7 +10,7 @@
  */
 
 /** Gui2048.java */
-/** PA8 Release */
+
 
 import javafx.application.*;
 import javafx.scene.control.*;
