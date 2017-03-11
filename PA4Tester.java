@@ -20,27 +20,8 @@ public class PA4Tester
         testIsGameOver();
         testMove();
 
-
-        /** ADD YOUR OWN DIRECTION TESTS HERE!! */
-
-
-
-
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-    /** DO NOT MODIFY BELOW HERE */
     private static void testIsGameOver() throws IOException
     {
         Board board;
