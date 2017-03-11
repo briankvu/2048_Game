@@ -1,14 +1,6 @@
 //------------------------------------------------------------------//
 // Direction.java                                                   //
-//                                                                  //
-// Enumeration Type used to represent a Movement Direction          //
-//  Each Direction object includes the vector of Direction          //
-//                                                                  //
-// Author:  Brandon Williams                                        //
-// Date:    1/17/15                                                 //
-//------------------------------------------------------------------//
 
-/** DO NOT MODIFY THIS FILE */
 
 public enum Direction
 {
