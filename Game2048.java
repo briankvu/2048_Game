@@ -2,16 +2,10 @@
 // Game2048.java                                                    //
 //                                                                  //
 // Game Driver for 2048                                             //
-//                                                                  //
-// Author:  Brandon Williams                                        //
-// Date:    1/17/15                                                 //
-//------------------------------------------------------------------//
 
 import java.util.Random;
 import java.io.IOException;
 
-/** DO NOT MODIFY THIS FILE */
-/** Except for changing the Random Seed */
 
 public class Game2048
 {
