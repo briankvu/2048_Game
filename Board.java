@@ -1,10 +1,9 @@
 
 /*
  * Name: Brian Vu
- * Login: cs8bkq
  * Date April 30, 2015
  * File: Board.java
- * Sources: Elaine, Tutors
+ 
  *
  * Description: This program is used to construct a new board with random
  * tiles to be implemented into the game 2048. The program will also allow
