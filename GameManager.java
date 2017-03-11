@@ -1,9 +1,7 @@
 /*
  * Name: Brian Vu
- * Login: cs8bkq
  * Date April 23, 2015
  * File: GameManager.java
- * Sources: Elaine, Tutors
  *
  * Description: Contains the essentials for the function of 2048. It provides
  * the necessary commands and controls to play the game
